@@ -47,8 +47,8 @@
 
 ### 🔥 Featured Projects
 
-**🤖 [AI Campus Assistant](https://github.com/mrtej117/Sahayatri)**
-An AI chatbot for answering campus-related queries, built with Python, FastAPI, Gemini API, and PostgreSQL.
+**🖼️ [AI Image Resizer](https://github.com/mrtej117/AI-Image-Resizer-)**
+A full-stack application for AI-powered image resizing, with separate backend and frontend components.
 
 **🖥️ [CTRL — AI Desktop Companion](https://github.com/mrtej117/CTRL)**
 An AI desktop assistant with a provider-independent architecture, integrating LLM APIs with local database support.
