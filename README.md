@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Nadiminti Venkata Sai Tej 👋</h1>
-<h3 align="center">Machine Learning Enthusiast | Backend Developer | CS Undergrad</h3>
+<h3 align="center">Machine Learning Enthusiast | Backend Developer | CS Undergrade</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nadiminti-venkata-sai-tej-23884237b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
