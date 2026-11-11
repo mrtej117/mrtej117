@@ -49,4 +49,8 @@
 <br />
 <img src="https://skillicons.dev/icons?i=linux,pytorch,anaconda,jupyter&theme=dark" alt="Linux, PyTorch, Anaconda, Jupyter" />
 
+<br /><br />
+
+<img src="https://raw.githubusercontent.com/mrtej117/mrtej117/main/gitartwork.svg" alt="SAI TEJ contribution artwork" width="100%" />
+
 </div>

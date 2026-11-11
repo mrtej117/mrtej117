@@ -1,0 +1,20 @@
+name: Generate GitArtWork
+
+on:
+  push:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jasineri/gitartwork@v1
+        with:
+          user_name: mrtej117
+          text: SAI TEJ
+          svg_file_name: gitartwork.svg
+      - uses: jasineri/simple-push-action@v1
