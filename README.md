@@ -1,6 +1,6 @@
 <div align="center">
 
-# SAI TEJ
+# Sai Tej
 
 <a href="https://github.com/mrtej117"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&height=32&lines=Building+things+that+see;Computer+Vision+%C2%B7+Data+Science;Machine+Learning" alt="Building things that see" /></a>
 
