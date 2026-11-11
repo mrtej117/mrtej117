@@ -51,6 +51,6 @@
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/mrtej117/mrtej117/main/gitartwork.svg" alt="SAI TEJ contribution artwork" width="100%" />
+<img src="https://raw.githubusercontent.com/mrtej117/mrtej117/main/sai-tej-artwork.svg" alt="SAI TEJ contribution artwork" width="100%" />
 
 </div>
