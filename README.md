@@ -1,8 +1,8 @@
 <div align="center">
 
-# SAI TEJ N.V
+# SAI TEJ
 
-<a href="https://github.com/mrtej117"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&height=32&lines=Building+things+that+see;Computer+Vision+%C2%B7+Data+Science;Open+to+opportunities" alt="Building things that see" /></a>
+<a href="https://github.com/mrtej117"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&height=32&lines=Building+things+that+see;Computer+Vision+%C2%B7+Data+Science;Machine+Learning" alt="Building things that see" /></a>
 
 <br />
 
