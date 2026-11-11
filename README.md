@@ -2,7 +2,7 @@
 
 # SAI TEJ N.V
 
-<a href="https://github.com/mrtej117"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&height=32&lines=AI+%26+ML+Engineer+in+the+Making;Computer+Vision+%C2%B7+Data+Science;Deep+Learning+%7C+PySpark+%7C+Azure+AI" alt="AI and ML Engineer in the Making" /></a>
+<a href="https://github.com/mrtej117"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&height=32&lines=Building+things+that+see;Computer+Vision+%C2%B7+Data+Science;Open+to+opportunities" alt="Building things that see" /></a>
 
 <br />
 
