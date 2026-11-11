@@ -17,4 +17,21 @@ jobs:
           user_name: mrtej117
           text: SAI TEJ
           svg_file_name: gitartwork.svg
+      - name: Remove GitArtWork attribution
+        shell: bash
+        run: |
+          python - <<'PY'
+          import re
+          from pathlib import Path
+
+          path = Path("gitartwork.svg")
+          svg = path.read_text()
+          svg = re.sub(
+              r"<a[^>]*>.*?Get your own gitartwork.*?</a>",
+              "",
+              svg,
+              flags=re.IGNORECASE | re.DOTALL,
+          )
+          path.write_text(svg)
+          PY
       - uses: jasineri/simple-push-action@v1
