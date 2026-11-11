@@ -16,7 +16,7 @@ jobs:
         with:
           user_name: mrtej117
           text: SAI TEJ
-          svg_file_name: sai-tej-artwork.svg
+          svg_file_name: gitartwork.svg
       - name: Remove GitArtWork attribution
         shell: bash
         run: |
@@ -24,10 +24,10 @@ jobs:
           import re
           from pathlib import Path
 
-          path = Path("sai-tej-artwork.svg")
+          path = Path("gitartwork.svg")
           svg = path.read_text()
           svg = re.sub(
-              r"<(?:a|text)[^>]*>.*?Get your own gitartwork.*?</(?:a|text)>",
+              r"<a[^>]*>.*?Get your own gitartwork.*?</a>",
               "",
               svg,
               flags=re.IGNORECASE | re.DOTALL,
