@@ -45,47 +45,8 @@
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=azure,py,git,java,c,postgres,mssql,linux,pytorch,anaconda,jupyter&theme=dark" alt="Microsoft Azure, Python, Git, Java, C, PostgreSQL, Microsoft SQL Server, Linux, PyTorch, Anaconda, Jupyter" />
-
-<br /><br />
-
-### Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=mrtej117&show_icons=true&hide_border=true&theme=github_dark&title_color=58a6ff&icon_color=58a6ff&hide=followers" height="160" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtej117&layout=compact&hide_border=true&theme=github_dark&title_color=58a6ff" height="160" alt="Top languages" />
-
-<br /><br />
-
-<img src="https://streak-stats.demolab.com?user=mrtej117&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub streak" />
-
-<br /><br />
-
-<img src="https://raw.githubusercontent.com/mrtej117/mrtej117/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
-
+<img src="https://skillicons.dev/icons?i=azure,py,git,java,c,postgres,mssql&theme=dark" alt="Microsoft Azure, Python, Git, Java, C, PostgreSQL, Microsoft SQL Server" />
 <br />
+<img src="https://skillicons.dev/icons?i=linux,pytorch,anaconda,jupyter&theme=dark" alt="Linux, PyTorch, Anaconda, Jupyter" />
 
-<sub><b>SAI TEJ N.V</b> · mrtej117 · Building with curiosity and consistency</sub>
-
-</div>
-
-<br />
-
-## Featured Projects
-
-<div align="center">
-<a href="https://github.com/mrtej117/vision2text-image-captioning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mrtej117&repo=vision2text-image-captioning&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff" alt="Vision2Text" /></a>
-<a href="https://github.com/mrtej117/ASCII-Depth-Human"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mrtej117&repo=ASCII-Depth-Human&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff" alt="ASCII Depth Rain" /></a>
-<a href="https://github.com/mrtej117/pyspark-customer-churn-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mrtej117&repo=pyspark-customer-churn-analysis&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff" alt="Customer Churn Prediction using PySpark" /></a>
-</div>
-
-| Project | Highlights |
-|---|---|
-| [Vision2Text](https://github.com/mrtej117/vision2text-image-captioning) | ResNet-50 encoder + LSTM decoder, MS COCO 2017, BLEU-1 69.85%, BLEU-4 27.40% |
-| [ASCII Depth Rain](https://github.com/mrtej117/ASCII-Depth-Human) | MediaPipe segmentation + OpenCV, Matrix-style ASCII rain from webcam |
-| [Customer Churn Prediction using PySpark](https://github.com/mrtej117/pyspark-customer-churn-analysis) | 7,043 records, Spark MLlib Decision Tree, ROC-AUC 0.7789 |
-
-<br />
-
-<div align="center">
-<a href="https://github.com/mrtej117/mrtej117/raw/main/assets/SaiTej_Resume.pdf?download=1"><img src="https://img.shields.io/badge/Download%20Resume-58a6ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0d1117" alt="Download Resume" /></a>
 </div>
