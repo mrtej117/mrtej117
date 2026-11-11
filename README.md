@@ -9,6 +9,7 @@
 <a href="https://www.linkedin.com/in/nadiminti-venkata-sai-tej-23884237/"><img src="https://img.shields.io/badge/LinkedIn-58a6ff?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
 <a href="https://x.com/Mrtej117"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-58a6ff?style=flat-square&logo=x&logoColor=white&labelColor=0d1117" alt="X / Twitter" /></a>
 <a href="mailto:mrtej117@gmail.com"><img src="https://img.shields.io/badge/Gmail-58a6ff?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail" /></a>
+<a href="https://github.com/mrtej117/mrtej117/raw/main/assets/SaiTej_Resume.pdf?download=1"><img src="https://img.shields.io/badge/Download%20Resume-58a6ff?style=flat-square&logo=adobeacrobatreader&logoColor=white&labelColor=0d1117" alt="Download Resume" /></a>
 
 </div>
 
@@ -44,16 +45,7 @@
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=azure,py,java,c,linux,pytorch,opencv,numpy,pandas,matplotlib,apache-spark,postgres,mysql,git,github,vscode,jupyter,anaconda&theme=dark" alt="Microsoft Azure, Python, Java, C, Linux, PyTorch, OpenCV, NumPy, Pandas, Matplotlib, Apache Spark, PostgreSQL, MS SQL, Git, GitHub, VS Code, Jupyter Notebook, Anaconda" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/AI%20%2F%20Deep%20Learning-0d1117?style=flat-square&labelColor=0d1117&color=58a6ff" alt="AI and Deep Learning" />
-<img src="https://img.shields.io/badge/CNN%20%7C%20ResNet--50%20%7C%20LSTM-0d1117?style=flat-square&labelColor=0d1117&color=58a6ff" alt="CNN, ResNet-50, LSTM" />
-<img src="https://img.shields.io/badge/Computer%20Vision%20%7C%20NLP%20%7C%20MediaPipe-0d1117?style=flat-square&labelColor=0d1117&color=58a6ff" alt="Computer Vision, NLP, MediaPipe" />
-<img src="https://img.shields.io/badge/PySpark%20%7C%20Spark%20MLlib-0d1117?style=flat-square&labelColor=0d1117&color=58a6ff" alt="PySpark and Spark MLlib" />
-<img src="https://img.shields.io/badge/Azure%20AI%20Services%20%7C%20AI%20Foundry%20%7C%20ML-0d1117?style=flat-square&labelColor=0d1117&color=58a6ff" alt="Azure AI Services, Azure AI Foundry, Azure Machine Learning" />
-<img src="https://img.shields.io/badge/Generative%20AI%20%7C%20EDA%20%7C%20Feature%20Engineering-0d1117?style=flat-square&labelColor=0d1117&color=58a6ff" alt="Generative AI, EDA, Feature Engineering" />
+<img src="https://skillicons.dev/icons?i=azure,py,git,java,c,postgres,mssql,linux,pytorch,anaconda,jupyter&theme=dark" alt="Microsoft Azure, Python, Git, Java, C, PostgreSQL, Microsoft SQL Server, Linux, PyTorch, Anaconda, Jupyter" />
 
 <br /><br />
 
