@@ -30,7 +30,7 @@
 </td>
 <td align="center" valign="middle" width="45%">
 
-<img src="assets/koi.gif" width="230" alt="Tej's fish" />
+<img src="https://raw.githubusercontent.com/mrtej117/mrtej117/main/assets/koi.gif?v=2" width="230" alt="Tej's fish" />
 <br />
 <sub><b>🐟 Tej's fish</b><br />swimming through data and ideas</sub>
 
